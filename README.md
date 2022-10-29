@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Diego Faedda from Sardinia, Italy. I'm a software engineering, team and technical leader.
+
+- 🔭 I’m currently working at Spindox SPA
+- 🌱 I’m currently learning svelte and vue
+- 💬 Ask me about JS, React or Node
+- 📫 How to reach me: https://www.linkedin.com/in/diegofaedda/
 
 <!--
 **diegofaedda/diegofaedda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
