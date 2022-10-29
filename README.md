@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at Spindox SPA
 - 🌱 I’m currently learning svelte and vue
-- 💬 Ask me about JS, React or Node
+- 💬 Ask me about JS (React/Angular or Node), Java and Springboot
 - 📫 How to reach me: https://www.linkedin.com/in/diegofaedda/
 
 <!--
