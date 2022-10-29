@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Diego Faedda from Sardinia, Italy. I'm a software engineering, team and technical leader.
+### Hi there 👋 
+### I'm Diego Faedda from Sardinia, Italy. I'm a software engineering, team and technical leader.
 
 - 🔭 I’m currently working at Spindox SPA
 - 🌱 I’m currently learning svelte and vue
